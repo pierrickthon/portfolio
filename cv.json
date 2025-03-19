@@ -1,0 +1,299 @@
+{
+  "basics": {
+      "name": "Yann Pierrick",
+      "label": "Développeur Web",
+      "image": "/me_avatar.jpg",
+      "email": "yannthon2004@gmail.com",
+      "phone": "0753538124",
+      "url": "https://www.linkedin.com/in/yann-pierrick-2a960328a",
+      "summary": "Engineering student at EFREI - Grande Ecole du Numérique. Je veux devenir scientifique dans le domaine de l'IA. J'aime construire du code et je suis passionné par les CS.",
+      "theme": "blue",
+      "location": {
+          "address": "",
+          "postalCode": "94240",
+          "city": "Villejuif",
+          "countryCode": "FR",
+          "region": "Val-de-Marne"
+      },
+      "profiles": [
+          {
+              "network": "LinkedIn",
+              "username": "yann-pierrick",
+              "url": "https://www.linkedin.com/in/yann-pierrick-2a960328a"
+          }
+      ]
+  },
+  "work": [
+      {
+          "name": "Darty",
+          "position": "Développeur Web",
+          "location_type": "Sur site",
+          "location": "Villejuif, Île-de-France, France",
+          "startDate": "2024-05-01",
+          "endDate": "2024-07-01",
+          "summary": "En tant que développeur web à Darty, j'ai participé à la construction de sites internet pour les produits en promotion.",
+          "highlights": [
+              "Développé du code pour optimiser les sites internet."
+          ],
+          "skills": [
+              "Software Development",
+              "Problem Solving"
+          ]
+      },
+      {
+          "name": "Navblue",
+          "position": "Stage d'été",
+          "location_type": "Sur site",
+          "location": "Toulouse, France",
+          "startDate": "2023-07-01",
+          "endDate": "2023-10-01",
+          "summary": "Développement en équipe d’un logiciel d’extraction des données d’un vol aérien ainsi que sur  l’analyse et la conversion des données en binaires.",
+          "highlights": [
+              "Analyse de données."
+          ],
+          "skills": [
+              "Patience",
+              "Résolution de problèmes",
+              "Travail d'équipe"
+          ]
+      }
+  ],
+  "volunteer": [
+      {
+          "organization": "Local Coding Club",
+          "position": "Volunteer",
+          "url": "https://codingclub.com/",
+          "startDate": "2021-01-01",
+          "endDate": "2022-01-01",
+          "summary": "Helped organize coding workshops and mentored new members.",
+          "highlights": [
+              "Awarded 'Volunteer of the Month'"
+          ]
+      }
+  ],
+  "education": [
+      {
+          "institution": "EFREI - Grande école du numérique",
+          "area": "Engineering & Digital",
+          "studyType": "Bachelor of Engineering - BE",
+          "startDate": "2023-10-01",
+          "endDate": "2026-05-01"
+      },
+      {
+          "institution": "Lycée Polyvalent Frédéric Mistral",
+          "area": "Ingénierie",
+          "studyType": "Baccalauréat",
+          "startDate": "2021-09-01",
+          "endDate": "2023-07-01"
+      }
+  ],
+  "certificates": [
+      {
+          "name": "Full Stack Web Development",
+          "date": "2023-05-01",
+          "issuer": "Online University",
+          "url": "https://onlineuniversity.com/certificates/fullstack"
+      }
+  ],
+  "skills": [
+      {
+          "name": "Python",
+          "level": "Intermédiaire",
+          "keywords": [
+              "Conception",
+              "Algorithme",
+              "Développement"
+          ]
+      },
+      {
+          "name": "Figma",
+          "level": "Expert",
+          "keywords": [
+              "Design",
+              "UI"
+          ]
+      },
+      {
+          "name": "Gitlab",
+          "level": "Intermediate",
+          "keywords": [
+              "Version Control",
+              "Collaboration",
+              "Source Code"
+          ]
+      },
+      {
+          "name": "Java",
+          "level": "Beginner",
+          "keywords": [
+              "Web Development",
+              "Frontend"
+          ]
+      },
+      {
+          "name": "PHP",
+          "level": "Expert",
+          "keywords": [
+              "Web Development",
+              "Frontend",
+              "Responsive Design"
+          ]
+      },
+      {
+          "name": "JavaScript",
+          "level": "Expert",
+          "keywords": [
+              "Web Development",
+              "Frontend",
+              "Backend",
+              "Fullstack"
+          ]
+      },
+      {
+          "name": "Tailwind",
+          "level": "Intermediate",
+          "keywords": [
+              "Web Development",
+              "Frontend",
+              "CSS Framework",
+              "Responsive Design"
+          ]
+      },
+      {
+          "name": "TypeScript",
+          "level": "Beginner",
+          "keywords": [
+              "Web Development",
+              "Frontend",
+              "Backend",
+              "JavaScript Superset"
+          ]
+      },
+      {
+          "name": "Node",
+          "level": "Expert",
+          "keywords": [
+              "Web Development",
+              "Backend",
+              "JavaScript",
+              "Server"
+          ]
+      },
+      {
+          "name": "MySQL",
+          "level": "Expert",
+          "keywords": [
+              "Databases",
+              "SQL",
+              "Data Storage",
+              "Backend"
+          ]
+      },
+      {
+          "name": "Git",
+          "level": "Intermediate",
+          "keywords": [
+              "Version Control",
+              "Collaboration",
+              "Source Code"
+          ]
+      },
+      {
+          "name": "GitHub",
+          "level": "Intermediate",
+          "keywords": [
+              "Version Control",
+              "Collaboration",
+              "Source Code",
+              "Git"
+          ]
+      },
+      {
+          "name": "Next.js",
+          "level": "Beginner",
+          "keywords": [
+              "Web Development",
+              "Frontend",
+              "React Framework",
+              "SSR",
+              "Static Generation"
+          ]
+      },
+      {
+          "name": "React",
+          "level": "Expert",
+          "keywords": [
+              "Web Development",
+              "Frontend",
+              "JavaScript Library",
+              "UI"
+          ]
+      }
+  ],
+  "languages": [
+      {
+          "language": "English",
+          "fluency": "Native speaker"
+      },
+      {
+          "language": "Spanish",
+          "fluency": "Intermediate"
+      }
+  ],
+  "interests": [
+      {
+          "name": "Technology",
+          "keywords": [
+              "AI",
+              "CS",
+              "New technologies"
+          ]
+      }
+  ],
+  "projects": [
+      {
+          "name": "Cookie Clicker",
+          "isActive": true,
+          "description": "Un jeu qui permet d'acheter et de collecter des cookies. On y retrouve des éatpes de succès, des franchissements de paliers, des systèmes de classements.",
+          "highlights": [
+              "Construit avec Vue et Tailwind",
+              "Contient des modes de classements."
+          ],
+          "url": "https://github.com/pierrickthon/Cookie-Clicker",
+          "github": "https://github.com"
+      },
+      {
+          "name": "ReadBooksOnline",
+          "isActive": true,
+          "description": "Un site de livres qui permet d'ajouter, de supprimer ou de modifier n'importe quel livre de votre collection. Ce site à été codé pour noter les livres excellents et garder les notes rapides.",
+          "highlights": [
+              "Créer avec Vue.",
+              "Fonctionnalité d'ajout et de suppression."
+          ],
+          "url": "https://github.com/pierrickthon/ReadBooksOnline"
+      },
+      {
+          "name": "Shopifast",
+          "isActive": true,
+          "description": "Un site e-commerce qui permet d'acheter des équipements électroniques.",
+          "highlights": [
+              "Crée avec PHP, MongoDB et MySQL.",
+              "Authentification d'utilisateur et routes CRUD",
+              "S'inscrire, se connecter en tant qu'admin : Mail et mdp, disponibles sur Github",
+              "S'assurer d'avoir MySQL et Mamp avant de lancer le site"
+          ],
+          "url": "https://github.com/pierrickthon/ShopiFast",
+          "github": "https://github.com/pierrickthon/ShopiFast"
+      },
+      {
+          "name": "Todo Liste",
+          "isActive": true,
+          "description": "Un site todo-liste qui t'apprends à gérer tes tâches du quotidien",
+          "highlights": [
+              "Codé en Réact",
+              "Fonctionnalité : Ajouter ou supprimer une tâche"
+          ],
+          "url": "https://github.com/pierrickthon/Todo-Liste"
+      }
+  ]
+}
